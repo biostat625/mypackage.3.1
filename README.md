@@ -10,6 +10,8 @@
 coverage](https://codecov.io/gh/biostat625/mypackage.3.1/graph/badge.svg)](https://app.codecov.io/gh/biostat625/mypackage.3.1)
 <!-- badges: end -->
 
+test
+
 ## Installation
 
 You can install the development version of mypackage.3 from
