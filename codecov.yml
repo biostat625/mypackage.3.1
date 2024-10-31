@@ -1,4 +1,6 @@
 comment: false
+codecov:
+token: c3d0429c-d68a-4bb1-a447-11ba7217598a
 
 coverage:
   status:
